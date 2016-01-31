@@ -58,7 +58,7 @@ function do_signup_user_ajax() {
         wp_send_json_success(array('message' => "<script type='text/javascript'>window.location='" . $content_user['redirect_url'] . "'</script>"));
     }
     else {
-        $message = "<span>Invalid form operation.</span>";
+        $message = "Invalid form operation.";
         $return = array('message' => $message);
         wp_send_json_error($return);
     }
