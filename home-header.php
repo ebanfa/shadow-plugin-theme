@@ -109,9 +109,8 @@
                             <?php if (is_user_logged_in()) { ?>
                                 <li><a href="<?php echo get_site_url(); ?>/page/?type=page&artifact=dashboard"><i class="md md-layers"></i> Dashboard</a></li>
                             <?php } else {?>
-                                <li><a href="<?php echo $login_nav_link; ?>"><i class="md md-layers"></i> Get Funded</a></li>
+                                <li><a href="<?php echo $login_nav_link; ?>"><i class="md md-layers"></i> Get Started</a></li>
                             <?php } ?>
-                            <li><a href="<?php echo get_site_url(); ?>"><i class="md md-public"></i> Testimonials</a></li>
                             <li><a href="<?php echo get_site_url(); ?>"><i class="md md-quick-contacts-dialer"></i> Contact Us</a></li>
                             <li><a href="<?php echo $login_nav_link; ?>"><i class="md md-input"></i> <?php echo $login_nav_text; ?></a></li>
                         </ul>
