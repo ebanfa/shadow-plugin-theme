@@ -20,7 +20,7 @@ get_header();
             <div class="camera_caption fadeFromLeft">
                 <h1>Professional Property Management At Your Finger Tips</h1>
                 <h2>Convenient, secure and easy to use software that conforms to your organization’s roles and processes.</h2>
-                <p>We are committed to being your first choice for financial services by providing responsive solutions and competitively priced products that are delivered with exceptional service.</p>
+                <p>Industry standard reporting capabilities. Make sense of your data with reports that can be exported to several formats, including PDF, Word or Excel.</p>
                 <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
             </div>
         </div>
