@@ -13,7 +13,7 @@ get_header();
                 <h1>Maximize Profitability On Your Real Estate Portfolio</h1>
                 <h2>Financial, operational and business intelligence capabilities to keep you ahead.</h2>
                 <p> Includes functionality to manage property accounting, investment and development management, tenant and lease information, and building maintenance.</p>
-                <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
+                <a href="<?php echo get_site_url(); ?>/signin" title="order now" class="btn btn-lg btn-primary" target="_blank">Get Started</a> 
             </div>
         </div>
         <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide1.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide2.jpg">
@@ -21,7 +21,7 @@ get_header();
                 <h1>Professional Property Management At Your Finger Tips</h1>
                 <h2>Convenient, secure and easy to use software that conforms to your organization’s roles and processes.</h2>
                 <p>Industry standard reporting capabilities. Make sense of your data with reports that can be exported to several formats, including PDF, Word or Excel.</p>
-                <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
+                <a href="<?php echo get_site_url(); ?>/signin" title="order now" class="btn btn-lg btn-primary" target="_blank">Get Started</a> 
             </div>
         </div>
         
