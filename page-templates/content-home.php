@@ -39,7 +39,7 @@ get_header();
                         <div class="clearfix">
                             <div class="chart stats-bar"><canvas height="45" width="83" style="display: inline-block; width: 83px; height: 45px; vertical-align: top;"></canvas></div>
                             <div class="count">
-                                <small>Easy of use</small>
+                                <small>Ease of use</small>
                                 <h2>100%</h2>
                             </div>
                         </div>
@@ -124,7 +124,7 @@ get_header();
     </div>
 
     <div class="card-body card-padding">
-        Helion Property Management System (HPMS) is a property management system designed to meet the needs of  professional property managers. The solution delivers financial, operational and business intelligence capabilities specifically designed for property owners, property managers and investors.
+        Helion Property Management System (HPMS) is a system designed to meet the needs of professional property managers. The solution delivers financial, operational and business intelligence capabilities specifically designed for property owners, property managers and investors.
     </div>
 </div>
 
