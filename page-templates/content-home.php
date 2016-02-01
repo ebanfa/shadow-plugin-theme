@@ -8,18 +8,18 @@ get_header();
 <!-- slider -->
 <div id="cameraSliderWrapper" class="clearfix">
     <div class="camera_wrap camera_black_skin">
-        <!-- <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg">
+        <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg">
             <div class="camera_caption fadeFromLeft">
-                <h1>THE SECURE PEER TO PEER LENDING PLATFORM</h1>
-                <h2>MONEY WHEN YOU NEED IT.</h2>
+                <h1>Maximize profitability On Your Real Estate Portfolio</h1>
+                <h2>Financial, Operational and Business intelligence capabilities to keep you ahead.</h2>
                 <p> We are committed to being your first choice for financial services by providing responsive solutions and competitively priced products that are delivered with exceptional service.</p>
                 <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
             </div>
-        </div> -->
+        </div>
         <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide2.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide2.jpg">
             <div class="camera_caption fadeFromLeft">
-                <h1>PERSONALIZED BANKING SERVICES</h1>
-                <h2>Convenient and secure lending.</h2>
+                <h1>Professional Property Management Platform</h1>
+                <h2>Convenient and secure.</h2>
                 <p>We are committed to being your first choice for financial services by providing responsive solutions and competitively priced products that are delivered with exceptional service.</p>
                 <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
             </div>
