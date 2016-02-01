@@ -80,9 +80,8 @@
                         <?php if (is_user_logged_in()) { ?>
                             <li class="logo hidden-xs"><a href="<?php echo get_site_url(); ?>/page/?type=page&artifact=dashboard">Dashboard</a></li>
                         <?php } else {?>
-                        <li class="logo hidden-xs"><a href="<?php echo $login_nav_link; ?>">Get Funded</a></li>
+                        <li class="logo hidden-xs"><a href="<?php echo $login_nav_link; ?>">Get Started</a></li>
                         <?php } ?>
-                        <li class="logo hidden-xs"><a href="<?php echo get_site_url(); ?>#stats">Testimonials</a></li>
                         <li class="logo hidden-xs"><a href="<?php echo get_site_url(); ?>#contact">Contact Us</a></li>
                         <li class="logo hidden-xs">
                             <a href="<?php echo $login_nav_link; ?>"><?php echo $login_nav_text; ?></a>
