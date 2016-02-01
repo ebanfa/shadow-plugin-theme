@@ -8,7 +8,7 @@ get_header();
 <!-- slider -->
 <div id="cameraSliderWrapper" class="clearfix">
     <div class="camera_wrap camera_black_skin">
-        <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg">
+        <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide1.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg">
             <div class="camera_caption fadeFromLeft">
                 <h1>Maximize Profitability On Your Real Estate Portfolio</h1>
                 <h2>Financial, operational and business intelligence capabilities to keep you ahead.</h2>
