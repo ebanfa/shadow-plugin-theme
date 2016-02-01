@@ -74,7 +74,7 @@
                             <a class="tm-message" href="index.html"><i class="md md-search"></i></a>
                         </li>
                         <li class="dropdown">
-                            <a class="tm-message" href="<?php echo get_site_url(); ?>/page/?type=entity&page_action=create&artifact=application">
+                            <a class="tm-message" href="<?php echo get_site_url(); ?>/page/?type=entity&page_action=create&artifact=property">
                                 <i class="md md-description"></i>
                             </a>
                         </li>
