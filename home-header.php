@@ -104,7 +104,7 @@
                         
                         <ul class="main-menu">
                             <li class="active"><a href="<?php echo get_site_url(); ?>"><i class="md md-home"></i> Home</a></li>
-                            <li><a href="<?php echo $profile_link; ?>"><i class="md md-person"></i> About</a></li>
+                            <li><a href="<?php echo get_site_url(); ?>#about"><i class="md md-person"></i> About</a></li>
                             <?php if (is_user_logged_in()) { ?>
                                 <li><a href="<?php echo get_site_url(); ?>/page/?type=page&artifact=dashboard"><i class="md md-layers"></i> Dashboard</a></li>
                             <?php } else {?>
