@@ -120,11 +120,11 @@ get_header();
 </div>
 <div id="about" class="card m-b-0">
     <div class="card-header bgm-lightblue">
-        <h2>About Us <small>Who we are and what we do...</small></h2>
+        <h2><a href="http://www.cloderia.com">About Us </a><small>Who we are and what we do...</small></h2>
     </div>
 
     <div class="card-body card-padding">
-        Shadow Banker is an online peer to peer lending service that was founded with the goal of a providing secure and cost effective way to access financing without the hassles associated with working with traditional brick and motar banks
+        Helion Property Management System (HPMS) is a property management system designed to meet the needs of  professional property managers. The solution delivers financial, operational and business intelligence capabilities specifically designed for property owners, property managers and investors.
     </div>
 </div>
 
