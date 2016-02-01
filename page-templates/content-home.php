@@ -10,16 +10,16 @@ get_header();
     <div class="camera_wrap camera_black_skin">
         <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide4.jpg">
             <div class="camera_caption fadeFromLeft">
-                <h1>Maximize profitability On Your Real Estate Portfolio</h1>
-                <h2>Financial, Operational and Business intelligence capabilities to keep you ahead.</h2>
-                <p> We are committed to being your first choice for financial services by providing responsive solutions and competitively priced products that are delivered with exceptional service.</p>
+                <h1>Maximize Profitability On Your Real Estate Portfolio</h1>
+                <h2>Financial, operational and business intelligence capabilities to keep you ahead.</h2>
+                <p> Includes functionality to manage property accounting, investment and development management, tenant and lease information, and building maintenance.</p>
                 <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
             </div>
         </div>
         <div data-src="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide2.jpg" data-thumb="<?php echo get_stylesheet_directory_uri(); ?>/images/slider/camera/camera-slide2.jpg">
             <div class="camera_caption fadeFromLeft">
-                <h1>Professional Property Management Platform</h1>
-                <h2>Convenient and secure.</h2>
+                <h1>Professional Property Management At Your Finger Tips</h1>
+                <h2>Convenient, secure and easy to use software that conforms to your organization’s roles and processes.</h2>
                 <p>We are committed to being your first choice for financial services by providing responsive solutions and competitively priced products that are delivered with exceptional service.</p>
                 <a href="<?php echo get_site_url(); ?>" title="order now" class="btn btn-sm btn-primary" target="_blank">Get Started</a> 
             </div>
@@ -39,8 +39,8 @@ get_header();
                         <div class="clearfix">
                             <div class="chart stats-bar"><canvas height="45" width="83" style="display: inline-block; width: 83px; height: 45px; vertical-align: top;"></canvas></div>
                             <div class="count">
-                                <small>Loans completed</small>
-                                <h2>2,385</h2>
+                                <small>Easy of use</small>
+                                <h2>100%</h2>
                             </div>
                         </div>
                     </div>
@@ -51,8 +51,8 @@ get_header();
                         <div class="clearfix">
                             <div class="chart stats-bar-2"><canvas height="45" width="83" style="display: inline-block; width: 83px; height: 45px; vertical-align: top;"></canvas></div>
                             <div class="count">
-                                <small>Average daily visitors</small>
-                                <h2>10,621</h2>
+                                <small>Availability</small>
+                                <h2>100%</h2>
                             </div>
                         </div>
                     </div>
@@ -75,8 +75,8 @@ get_header();
                         <div class="clearfix">
                             <div class="chart stats-line-2"><canvas height="45" width="85" style="display: inline-block; width: 85px; height: 45px; vertical-align: top;"></canvas></div>
                             <div class="count">
-                                <small>Support Tickets</small>
-                                <h2>23,856</h2>
+                                <small>Support</small>
+                                <h2>24/7</h2>
                             </div>
                         </div>
                     </div>
